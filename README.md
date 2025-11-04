@@ -15,7 +15,7 @@ The app offers a **simple, modern, and user-friendly interface**, allowing smoot
 * Provider / BLoC => for state management.
 * Git & GitHub => for version control and teamwork.
 
- 🚀 **How to Run the App:
+ 🚀How to Run the App:
 
 1. Clone the project from GitHub.
 2. Open it in Android Studio or VS Code.
